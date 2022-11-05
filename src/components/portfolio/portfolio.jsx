@@ -21,7 +21,7 @@ const portfolio = () => {
           <h3>SHOKLIN</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/Lawdshev/shoklin" className='btn' target='_blank'>Github</a>
-          <a href="https://shoklin.netlify.app/" className='btn btn-primary' target='_blank'>Live
+          <a href="https://shoklin.onrender.com/" className='btn btn-primary' target='_blank'>Live
            Demo</a>
           </div>
         </article>
