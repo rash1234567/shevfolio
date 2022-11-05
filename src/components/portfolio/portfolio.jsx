@@ -80,10 +80,10 @@ const portfolio = () => {
           <div className='portfolio__item-image'>
           <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Shevfolio</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com//Alien_pixels" className='btn btn-primary' target='_blank'>Live
+          <a href="https://github.com/Lawdshev/shevfolio" className='btn' target='_blank'>Github</a>
+          <a href="https://shevfolio.netlify.app/" className='btn btn-primary' target='_blank'>Live
            Demo</a>
           </div>
         </article>
