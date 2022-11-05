@@ -19,22 +19,22 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Snow',
+    name: 'Rasheedah',
     review: 'We re-did our website twice in a 12 month period. There was no comparison between the first company and Thrive. Professional, Creative, Attentive to Detail, Excellent Communicaton…If I had contracted with Thrive the first time I would not have had to do it twice.'
   },
   {
     avatar: AVTR2,
-    name: 'Habibi',
+    name: 'Jubril',
     review: 'We re-did our website twice in a 12 month period. There was no comparison between the first company and Thrive. Professional, Creative, Attentive to Detail, Excellent Communicaton…If I had contracted with Thrive the first time I would not have had to do it twice.'
   },
   {
     avatar: AVTR3,
-    name: 'Elon Musk',
+    name: 'Pamilerin',
     review: 'We re-did our website twice in a 12 month period. There was no comparison between the first company and Thrive. Professional, Creative, Attentive to Detail, Excellent Communicaton…If I had contracted with Thrive the first time I would not have had to do it twice.'
   },
   {
     avatar: AVTR4,
-    name: 'Skokdoski',
+    name: 'Noble',
     review: 'We re-did our website twice in a 12 month period. There was no comparison between the first company and Thrive. Professional, Creative, Attentive to Detail, Excellent Communicaton…If I had contracted with Thrive the first time I would not have had to do it twice.'
   }
 ]

@@ -66,28 +66,28 @@ const Experience = () => {
           <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icons'/>
             <div>
-              <h4>C#</h4>
-              <small className='text-light'>Experienced</small>
-            </div>
-          </article>
-          <article className='experience__details'>
-            <BsPatchCheckFill className='experience__details-icons'/>
-            <div>
-              <h4>ASP .NET MVC</h4>
-              <small className='text-light'>Experienced</small>
-            </div>
-          </article>
-          <article className='experience__details'>
-            <BsPatchCheckFill className='experience__details-icons'/>
-            <div>
-              <h4>.NET Core</h4>
+              <h4>Nodejs</h4>
               <small className='text-light'>Intermediate</small>
             </div>
           </article>
           <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icons'/>
             <div>
-              <h4>SQL Server</h4>
+              <h4>Expressjs</h4>
+              <small className='text-light'>Intermediate</small>
+            </div>
+          </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>Nextjs</h4>
+              <small className='text-light'>Beginner</small>
+            </div>
+          </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>MongoDB</h4>
               <small className='text-light'>Intermediate</small>
             </div>
           </article>

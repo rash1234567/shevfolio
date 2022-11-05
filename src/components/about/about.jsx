@@ -23,31 +23,30 @@ const about = () => {
           <article className='about__card'>
             <BsAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>2+ Years Working</small>
+            <small>1+ Years Working</small>
           </article>
 
           <article className='about__card'>
             <FiUsers className='about__icon'/>
             <h5>Clients</h5>
-            <small>6+ worldwide countries</small>
+            <small>worldwide countries</small>
           </article>
 
           <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
-            <small>30+ Completed</small>
+            <small>few Completed</small>
           </article>
         </div>
 
         <p>
-         I am an experienced software engineer with a passion 
+         I am a software engineer with a passion 
         for developing innovative programs that expedite the 
         efficiency and effectiveness of organizational success.
-        Motivated junior web developer looking for a role as 
-        full-stack web developer at SoftwareX. Passionate about 
+        Motivated web developer looking for a role as 
+        junior dev in reputable organizations. Passionate about 
         building first-class web applications.
-         Developed an e-commerce website for a local fashion retailer
-          while at University X. Relevant skills include DNS Management, Database, Debugging, and more.
+         I am also a graduate of agricultural engineering in the university of ilorin.
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>

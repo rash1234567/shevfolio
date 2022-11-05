@@ -30,15 +30,15 @@ const Contact = () => {
           <article className='contact__option'>
               <MdOutlineMarkEmailRead className='contact__option-icon'/>
               <h4>Email</h4>
-              <h5>ajayipami1@gmail.com</h5>
-              <a href="mailto:ajayipami1@gmail.com" target="_blank">Send A Message</a>
+              <h5>o.d.alsherif@gmail.com</h5>
+              <a href="mailto:o.d.alsherif@gmail.com" target="_blank">Send A Message</a>
           </article>
 
           <article className='contact__option'>
               <BsWhatsapp className='contact__option-icon'/>
               <h4>WhatsApp</h4>
-              <h5>+234 705 186 5705</h5>
-              <a href="https://wa.me/2347051865705" target="_blank">Send A Message</a>
+              <h5>+234 8177950542</h5>
+              <a href="https://wa.me/2348177950542" target="_blank">Send A Message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
