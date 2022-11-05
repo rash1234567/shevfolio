@@ -11,29 +11,25 @@ const services = () => {
       <div className='container services__container'>
         <article  className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Frontend Development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>LUsing React to createreusable components</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Building user interfaces from scratch</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Updating User interfaces</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Fetching data and APIs.</p>
             </li>
           </ul>
         </article>
@@ -41,37 +37,29 @@ const services = () => {
 
         <article className='service'>
           <div className='service__head'>
-            <h3>Web Development</h3>
+            <h3>Backend Engineering</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Using Expressjs to create server</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Writing reusabe APIs with node and express</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Communication with mongodb using mongoose</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>JWT and Firebase authentication</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Using  jOi for validation</p>
             </li>
           </ul>
         </article>
@@ -79,29 +67,25 @@ const services = () => {
 
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Tutorials</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Teaching the basics of web development</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Fundamentals of Javascript</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>DOM manipulation</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckAll className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>ES6 and Reactjs</p>
             </li>
           </ul>
         </article>
