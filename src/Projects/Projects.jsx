@@ -13,7 +13,7 @@ function Projects() {
         <div className="flex-wrap flex items-start p-4">
             {
                 data.map(datum=> {
-                   return <Project {...datum}/>
+                   return <Project key={datum.title} {...datum}/>
                 })
             }
         </div>
