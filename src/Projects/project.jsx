@@ -9,8 +9,7 @@ function Project({img,title,github,demo}) {
       <h3 className='font-bold'>{title}</h3>
       <div className='portfolio__item-cta flex justify-between'>
       <a href={github} className='btn' target='_blank'>Github</a>
-      <a href={demo} className='btn btn-primary' target='_blank'>Live
-       Demo</a>
+      <a href={demo} className='btn btn-primary' id='demo' target='_blank'> <span id='span1'>Live Demo</span> <span id='span2' className='hidden'><i class="fa-solid fa-right-long font-[40px]"></i> <i class="fa-solid fa-right-long font-[40px]"></i> <i class="fa-solid fa-right-long font-[40px]"></i></span> </a>
       </div>
     </article>
   )
