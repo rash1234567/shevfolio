@@ -13,7 +13,7 @@ import adserve from '../assets/adserve.PNG';
 export const data =[
     {
         title: 'Vatdoc',
-        demo: 'vatdoc.netlify.app/',
+        demo: 'https://vatdoc.netlify.app/',
         github: 'https://github.com/Lawdshev/Vatdoc',
         img: vatdoc,
     },
@@ -37,7 +37,7 @@ export const data =[
     },
     {
         title: 'Apple',
-        demo: 'https://majestic-gelato.netlify.app',
+        demo: 'https://majestic-gelato-78453c.netlify.app/',
         github: 'https://github.com/Lawdshev/Apple',
         img: apple,
     },
