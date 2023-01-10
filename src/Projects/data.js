@@ -2,29 +2,30 @@ import shoklin from './portfolio_img/05.11.2022_03.51.50_REC.png';
 import apple from './portfolio_img/AppleStore.png';
 import university from './portfolio_img/alicia.png';
 import vividioz from './portfolio_img/vivioz.PNG';
-import vidly from './portfolio_img/vidly.png';
 import country from './portfolio_img/countriesqq.PNG';
 import vatdoc from '../assets/vatdoc.PNG';
 import verifier from '../assets/verifier.PNG';
-import itemify from '../assets/itemify.PNG'
+import itemify from '../assets/itemify.PNG';
+import appraiseMe from '../assets/appraiseme.PNG';
+import adserve from '../assets/adserve.PNG';
 
 
 export const data =[
     {
         title: 'Vatdoc',
-        demo: 'https://sage-duckanoo-db10a2.netlify.app/',
+        demo: 'vatdoc.netlify.app/',
         github: 'https://github.com/Lawdshev/Vatdoc',
         img: vatdoc,
     },
     {
         title: 'Verifier',
-        demo: 'https://iridescent-speculoos-a7e6ea.netlify.app/',
+        demo: 'https://everifyer.netlify.app/',
         github: 'https://github.com/Lawdshev/Everifyer',
         img: verifier,
     },
     {
         title: 'Itemify',
-        demo: 'https://cosmic-dolphin-db8c7a.netlify.app/',
+        demo: 'https://itemify.netlify.app/',
         github: 'https://github.com/Lawdshev/Itemify',
         img: itemify,
     },
@@ -53,10 +54,16 @@ export const data =[
         img: vividioz,
     },
     {
-        title: 'Vidly',
-        demo: '',
-        github: '',
-        img: vidly,
+        title: 'Adserve',
+        demo: 'https://adserve.netlify.app/',
+        github: 'https://github.com/Lawdshev/adserve',
+        img: adserve,
+    },
+    {
+        title: 'AppraiseMe',
+        demo: 'https://appraiseMe.netlify.app/',
+        github: 'https://github.com/Lawdshev/appraise',
+        img: appraiseMe,
     },
     {
         title: 'CountriesQQ',
