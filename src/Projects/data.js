@@ -8,6 +8,8 @@ import verifier from '../assets/verifier.PNG';
 import itemify from '../assets/itemify.PNG';
 import appraiseMe from '../assets/appraiseme.PNG';
 import adserve from '../assets/adserve.PNG';
+import unshelled from '../assets/unshelled.PNG';
+import page from '../assets/page.PNG'
 
 
 export const data =[
@@ -70,5 +72,17 @@ export const data =[
         demo: 'https://countriesQQ.onrender.com',
         github: 'https://github.com/Lawdshev/vatebra_test',
         img: country,
+    },
+    {
+        title: 'unshelled',
+        demo: 'https://unshelled-client.onrender.com/',
+        github: 'https://github.com/Lawdshev/unshelled-frontend',
+        img: unshelled
+    },
+    {
+        title: 'P&G ',
+        demo: 'https://super-pavlova-0ce678.netlify.app/',
+        github: 'https://github.com/Lawdshev/page',
+        img: page
     }
 ]
