@@ -19,7 +19,7 @@ const about = () => {
         </div>
 
       <div className="about__content">
-        <div className='about__cards'>
+        {/* <div className='about__cards'>
           <article className='about__card'>
             <BsAward className='about__icon'/>
             <h5>Experience</h5>
@@ -37,16 +37,14 @@ const about = () => {
             <h5>Projects</h5>
             <small>over 50 completed</small>
           </article>
-        </div>
+        </div> */}
 
         <p>
-         I am a software engineer with a passion 
-        for developing innovative programs that expedite the 
-        efficiency and effectiveness of organizational success.
-        Motivated web developer looking for a role as 
-        junior dev in reputable organizations. Passionate about 
-        building first-class web applications.
-         I am also a graduate of agricultural engineering in the university of ilorin.
+            I've been working in the industry for five years and have experience working on a range of projects, from small business websites to large e-commerce platforms. My technical skills include HTML, CSS, JavaScript, and I'm proficient in React, which I've used extensively in previous projects.
+
+            I also have a background in design, which helps me create user-friendly and visually appealing interfaces. When it comes to problem-solving, I'm a methodical thinker and enjoy working through complex issues to find a solution. I've also worked in team environments and enjoy collaborating with other developers, designers, and stakeholders.
+
+            I'm passionate about learning and staying up to date with industry trends, which has helped me stay ahead of the curve in terms of new technologies and techniques. Finally, I'm a strong communicator and enjoy working with non-technical stakeholders to ensure that their needs are met and their expectations are exceeded."
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>

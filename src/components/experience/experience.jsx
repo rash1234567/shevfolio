@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <section id='experience'>
       <h5>What Skills I Have</h5>
-      <h2>My Experience</h2>
+      <h2>My Skills</h2>
 
     <div className='container experience__container'>
       <div className='experience__frontend'>
@@ -62,6 +62,13 @@ const Experience = () => {
               
             </div>
           </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>Redux</h4>
+              
+            </div>
+          </article>
         </div>
       </div>
 
@@ -101,6 +108,27 @@ const Experience = () => {
             <BsPatchCheckFill className='experience__details-icons'/>
             <div>
               <h4>MongoDB</h4>
+              
+            </div>
+          </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>GraphQl</h4>
+              
+            </div>
+          </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>Postgress</h4>
+              
+            </div>
+          </article>
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icons'/>
+            <div>
+              <h4>Redis</h4>
               
             </div>
           </article>

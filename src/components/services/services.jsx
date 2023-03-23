@@ -17,7 +17,7 @@ const services = () => {
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service__list-icon'/>
-              <p>LUsing React to createreusable components</p>
+              <p>Using React to create reusable components</p>
             </li>
             <li>
               <BsCheckAll className='service__list-icon'/>
