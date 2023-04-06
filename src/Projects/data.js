@@ -78,10 +78,10 @@ export const data = [
         github: 'https://github.com/Lawdshev/unshelled-frontend',
         img: unshelled
     },
-//     {
-//         title: 'P&G ',
-//         demo: 'https://super-pavlova-0ce678.netlify.app/',
-//         github: 'https://github.com/Lawdshev/page',
-//         img: page
-//     }
+    {
+        title: 'P&G ',
+        demo: 'https://super-pavlova-0ce678.netlify.app/',
+        github: 'https://github.com/Lawdshev/page',
+        img: page
+    }
 ]
