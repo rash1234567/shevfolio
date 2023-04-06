@@ -8,8 +8,10 @@ import verifier from '../assets/verifier.PNG';
 import itemify from '../assets/itemify.PNG';
 import appraiseMe from '../assets/appraiseme.PNG';
 import adserve from '../assets/adserve.PNG';
+import wardboard from '../assets/wardboard.jpg';
+import approveit from '../assets/approve-it (2).PNG';
 import unshelled from './portfolio_img/unshelled.PNG';
-import page from './portfolio_img/page.PNG'
+import page from './portfolio_img/page.PNG';
 
 export const data = [
     {
@@ -83,5 +85,17 @@ export const data = [
         demo: 'https://super-pavlova-0ce678.netlify.app/',
         github: 'https://github.com/Lawdshev/page',
         img: page
+    },
+    {
+        title: 'Wardboard(vpn needed)',
+        demo: 'https://wardbord.com/',
+        github: 'N/A',
+        img: wardboard
+    },
+    {
+        title: 'Approve-it ',
+        demo: 'https://approve-it.onrender.com/',
+        github: 'https://github.com/Lawdshev/ApproveIT',
+        img: approveit
     }
 ]
