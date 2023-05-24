@@ -14,24 +14,24 @@ import unshelled from './portfolio_img/unshelled.PNG';
 import page from './portfolio_img/page.PNG';
 
 export const data = [
-//     {
-//         title: 'Vatdoc',
-//         demo: 'https://vatdoc.netlify.app/',
-//         github: 'https://github.com/Lawdshev/Vatdoc',
-//         img: vatdoc,
-//     },
-//     {
-//         title: 'Verifier',
-//         demo: 'https://everifyer.netlify.app/',
-//         github: 'https://github.com/Lawdshev/Everifyer',
-//         img: verifier,
-//     },
-//     {
-//         title: 'Itemify',
-//         demo: 'https://itemify.netlify.app/',
-//         github: 'https://github.com/Lawdshev/Itemify',
-//         img: itemify,
-//     },
+    {
+        title: 'Vatdoc',
+        demo: 'https://vatdoc.netlify.app/',
+        github: 'https://github.com/Lawdshev/Vatdoc',
+        img: vatdoc,
+    },
+    {
+        title: 'Verifier',
+        demo: 'https://everifyer.netlify.app/',
+        github: 'https://github.com/Lawdshev/Everifyer',
+        img: verifier,
+    },
+    {
+        title: 'Itemify',
+        demo: 'https://itemify.netlify.app/',
+        github: 'https://github.com/Lawdshev/Itemify',
+        img: itemify,
+    },
     {
         title: 'Shoklin',
         demo: 'https://shoklin.onrender.com',
@@ -56,24 +56,24 @@ export const data = [
         github: 'https://github.com/rash1234567/NEWVIVIDIO',
         img: vividioz,
     },
-//     {
-//         title: 'Adserve',
-//         demo: 'https://adserve.netlify.app/',
-//         github: 'https://github.com/Lawdshev/adserve',
-//         img: adserve,
-//     },
-//     {
-//         title: 'AppraiseMe',
-//         demo: 'https://appraiseMe.netlify.app/',
-//         github: 'https://github.com/Lawdshev/appraise',
-//         img: appraiseMe,
-//     },
-//     {
-//         title: 'CountriesQQ',
-//         demo: 'https://countriesQQ.onrender.com',
-//         github: 'https://github.com/Lawdshev/vatebra_test',
-//         img: country,
-//     },
+    {
+        title: 'Adserve',
+        demo: 'https://adserve.netlify.app/',
+        github: 'https://github.com/Lawdshev/adserve',
+        img: adserve,
+    },
+    {
+        title: 'AppraiseMe',
+        demo: 'https://appraiseMe.netlify.app/',
+        github: 'https://github.com/Lawdshev/appraise',
+        img: appraiseMe,
+    },
+    {
+        title: 'CountriesQQ',
+        demo: 'https://countriesQQ.onrender.com',
+        github: 'https://github.com/Lawdshev/vatebra_test',
+        img: country,
+    },
     {
         title: 'unshelled',
         demo: 'https://unshelled-client.onrender.com/',
@@ -92,10 +92,10 @@ export const data = [
 //         github: 'N/A',
 //         img: wardboard
 //     },
-//     {
-//         title: 'Approve-it ',
-//         demo: 'https://approve-it.onrender.com/',
-//         github: 'https://github.com/Lawdshev/ApproveIT',
-//         img: approveit
-//     }
+    {
+        title: 'Approve-it ',
+        demo: 'https://approve-it.onrender.com/',
+        github: 'https://github.com/Lawdshev/ApproveIT',
+        img: approveit
+    }
 ]
